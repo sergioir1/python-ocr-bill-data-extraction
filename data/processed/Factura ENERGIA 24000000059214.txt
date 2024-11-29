@@ -1,0 +1,190 @@
+
+
+--- PAGE_0 ---
+
+##Pag##40##Tot##75##DocName##ENERGIA_24000000059214##Id##126126##
+Tu factura en detalle
+- - - -- - - -- - -- - -WEKIWI SL
+INFO@WEKIWI.ES
+900525748
+www.wekiwi.es Nº Factura:  24000000059214
+Dirección de facturación:
+CL CASTILLA LA MANCHA 172 G 2 B
+28701 MADRIDFecha emisión factura:  21 de noviembre de 2024
+Periodo de consumo:  De 10/ 11/2024 al 18/ 11/2024
+Datos del cliente
+NIF/CIF: 02858076G
+Dirección de Suministro:
+CL CASTILLA LA MANCHA 172 G 2 B
+MADRID - 28701Titular : Rodríguez Gómez María Elena
+Datos del suministro
+Tarifa de acceso 2.0TDProducto: OCU Carolina OneCUPS: ES0021000005609868VG0P
+Contrato de acceso: 138708241
+Distribuidora: I-DE REDES ELECTRICAS INTELIGENTES 
+S.A.
+Teléfono : 900171171
+Nº de Contador: 0039672013 8,26 €
+Tarifa de Acceso : 2.0TD
+¿Conseguiste tus descuentos?Número de contrato:  28351
+Recarga
+Acierto
+DigitalWekiwi - OCU Carolina One
+Ciudadano responsableTotal descuentos conseguidos :
+Acierto
+OnlineRecarga
+Trae a un amigoNo aplica
+No aplica
+No aplica
+No aplica
+No AplicaDatos del pago
+Fecha de pago: 21/11/2024Nº de cuenta: ES17210060936313001****Forma de pago: DOMICILIADO
+             
+11 Nov 24000000000000027energía consumida kWhCARGOS Y PEAJES APLICABLES SEGÚN NORMATIVA
+Peajes térm. de Energía
+Cargos térm. de Energía
+Peajes térm. de Potencia
+Cargos térm. de Potencia€/kWh
+€/kWh
+€/kWh/día
+€/kWh/díaP6 P5 P4 P3 P2 P1
+ 0,043893  0,008779  0,002195 0,033081  0,019184  0,000557
+ 0,008169  0,000525 0,061207  0,002122
+Potencia máxima demandada en los últimos 12 meses:
+P1: P2:  3,632  4,440P3: 
+P4: P5: P6: Por Potencia Contratada 3,56 €
+Por Energía Consumida 3,33 €
+Productos 0,06 €
+Impuesto Eléctrico 0,35 €
+Alquiler de Equipo 0,21 €
+TOTAL FACTURAIVA 10% 0,75 €Datos de la factura
+Resumen de la factura
+8,26 €
+* Descuentos disponibles en la tarifa de recargaPotencia contratada: P1: 5,5000 kW // P3: 5,5000 kW
+Histórico de tus consumos
+Distribuidora
+I-DE REDES ELECTRICAS 
+INTELIGENTES S.A.Factura emitida en Madrid por Wekiwi SL . comercializadora de energía en 
+mercado libre, con CIF B67686782, Calle María de Molina, 41 28006 Madrid. 
+Inscrita en el Registro Mercantil de Madrid Tomo 42626 , Folio 120 hoja 
+M753945.
+
+
+--- PAGE_1 ---
+
+##Pag##41##Tot##75##DocName##ENERGIA_24000000059214##Id##126126##
+Tu factura en detalle
+Concepto Cálculo Total
+Potencia  3,43 € P1 5,500 kW x 9 Días x 0,06937612 €/kW día
+ 0,13 € P3 5,500 kW x 9 Días x 0,00264714 €/kW día
+Energía  1,26 € P1 7 kWh x 0,180010 €/kWh
+ 0,89 € P2 7 kWh x 0,126860 €/kWh
+ 1,18 € P3 13 kWh x 0,090610 €/kWh
+ 6,89 €Subtotal Energía y 
+PotenciaWEKIWI SL
+INFO@WEKIWI.ES
+900525748
+www.wekiwi.es
+ 0,35 € 5,11269632 % sobre 6,89 € x 1 Impuesto Eléctrico
+ 0,21 € Alquiler Equipo Distribuidora Alquiler de contador
+ 0,06 € Bono Social 2024 (RD 7/2016 23 diciembre) Productos
+Subtotal  7,51 €
+IVA  0,75 €  10%
+8,26 € Total Factura
+Lecturas
+REAL REAL 18/11/2024 10/11/2024 18/11/2024 10/11/2024ACTIVA REACTIVA
+MAXIM
+ETROConsumo Actual Anterior Consumo Actual Anterior
+Fecha
+P1  13.940  13.947  0  0  0  7  0
+P2  10.554  10.561  0  0  0  7  0
+P3  3.792  3.805  0  0  0  13  0TOTAL
+ kWhPÉRDIDA 
+TRAFOREC.
+4%
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0
+ 0
+Distribuidora
+I-DE REDES ELECTRICAS 
+INTELIGENTES S.A.Factura emitida en Madrid por Wekiwi SL . comercializadora de energía en 
+mercado libre, con CIF B67686782, Calle María de Molina, 41 28006 Madrid. 
+Inscrita en el Registro Mercantil de Madrid Tomo 42626 , Folio 120 hoja 
+M753945.
+
+
+--- PAGE_2 ---
+
+##Pag##42##Tot##75##DocName##ENERGIA_24000000059214##Id##126126##
+Tu factura en detalle
+WEKIWI SL
+INFO@WEKIWI.ES
+900525748
+www.wekiwi.es
+Destino de tu factura:
+RECORE: 
+DÉFICIT: 
+TNP: 
+OTROS: 0,84 €
+Origen e impacto de la electricidad consumida
+Media Nacional
+Contenido carbono:  0,27 kg de CO2 por kWh
+Residuos Radioactivos: 0,56 mg por kWhWekiwi
+0 mg por kWh0 kg de CO2 por kWh
+EMISIONES DE CO2 
+EQUIVALENTES
+RESIDUOS RADIOACTIVOS ALTA
+Acceso a Comparadora CNMC
+Si bien la energía que llega a nuestros hogares 
+es indistinguible de la que consumen nuestros  
+vecinos u otros consumidores conectado al 
+mismo sistema eléctrico, ahora sí es posible  
+garantizar el origen de la producción de  energía 
+eléctrica que usted consume. 
+A estos efectos se proporciona el desglose de la 
+mezcla de tecnologías de producción nacional 
+para así comparar los porcentajes del promedio 
+nacional con los correspondientes a la energía 
+vendida por su Compañia Comercializadora.Impuestos: 
+Alquiler Contador: 
+Energía: 
+Cargos: 
+Peajes de Transporte 
+y Distribución:  1,10€
+ 0,21€
+ 0,83€ 2,61€
+ 3,51€Destino del coste de los 
+cargos del sistema 
+eléctrico:
+RECORE: 
+41,2%DÉFICIT: 
+46,23%TNP: 12,31%
+OTROS: 0,26%0,01€
+0,59 €
+0,23€
+0,01 €
+El Real Decreto-Ley 8/2023, de 27 de diciembre establece en su artículo 21 que el tipo impositivo del Impuesto del Valor Añadido (IVA) durante el periodo comprendido entre el 1 
+de enero de 2024 y el 31 de diciembre de 2024 será del 10% para los consumidores domésticos con potencia igual o inferior a 10kW en los términos que estable la propia 
+normativa. 
+De igual modo, el artículo 22 establece que el Impuesto Especial de Electricidad (IEE) tendrá un tipo impositivo del 2,5% en el periodo comprendido entre el 1 de enero de 2024 y 
+el 31 de marzo de 2024, y un tipo impositivo del 3,8% en el periodo comprendido entre el 1 de abril de 2024 y el 30 de junio de 2024. 
+En relación a los cargos del sistema eléctrico y pagos por capacidad el artículo 40 del citado Real Decreto-Ley establece una prórroga hasta que se aprueben los mismos. Por 
+tanto, desde el 1 de enero de 2024 y hasta que se aprueben resultarán de aplicación los previstos en los apartados primero y segundo de la Orden TED /1312/2022, de 23 de 
+diciembre para el ejercicio 2023. 
+El artículo 45 del Real Decreto-Ley 8/2023 establece los valores unitarios de aplicación para la financiación del bono social, el cual queda fijado para la actividad de 
+comercialización en 2,299047€/CUPS. 
+En lo referido a los peajes de transporte y distribución, es de aplicación la Circular 3/2020 por la que se establece la metodología de cálculo de dichos peajes, y la Resolución de 
+21 de diciembre de 2023 de la Comisión Nacional de los Mercados y la Competencia por el cual se establecen los valores de los peajes de acceso a las redes de transporte y 
+distribución de electricidad de aplicación a partir del 1 de enero de 2024.Información adicional RD Ley 8/2023.
+Las facturas tienen que ser fáciles de 
+entender, si tienes alguna duda, 
+!Contáctanos!
+Distribuidora
+I-DE REDES ELECTRICAS 
+INTELIGENTES S.A.Factura emitida en Madrid por Wekiwi SL . comercializadora de energía en 
+mercado libre, con CIF B67686782, Calle María de Molina, 41 28006 Madrid. 
+Inscrita en el Registro Mercantil de Madrid Tomo 42626 , Folio 120 hoja 
+M753945.

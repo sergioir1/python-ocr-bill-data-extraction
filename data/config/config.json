@@ -1,0 +1,17 @@
+{
+  "DATA":{
+    "OUT_DIR": "DIR_OUT"
+  },
+  "OCR": {
+    "AVAILABLE": "ON",
+    "TEXT_LAYER": {
+      "AVAILABLE": "ON"
+    },
+    "EASY_OCR": {
+      "AVAILABLE": "OFF"
+    }
+  },
+  "ANNOTATOR": {
+    "AVAILABLE": "ON"
+  }
+}
